@@ -1,0 +1,14 @@
+C:\Users\Paulo\source\repos\Desafio_TDD_e_Testes_Unitarios\Desafio_TDD_e_Testes_Unitarios\bin\Debug\net8.0\Desafio_TDD_e_Testes_Unitarios.exe
+C:\Users\Paulo\source\repos\Desafio_TDD_e_Testes_Unitarios\Desafio_TDD_e_Testes_Unitarios\bin\Debug\net8.0\Desafio_TDD_e_Testes_Unitarios.deps.json
+C:\Users\Paulo\source\repos\Desafio_TDD_e_Testes_Unitarios\Desafio_TDD_e_Testes_Unitarios\bin\Debug\net8.0\Desafio_TDD_e_Testes_Unitarios.runtimeconfig.json
+C:\Users\Paulo\source\repos\Desafio_TDD_e_Testes_Unitarios\Desafio_TDD_e_Testes_Unitarios\bin\Debug\net8.0\Desafio_TDD_e_Testes_Unitarios.dll
+C:\Users\Paulo\source\repos\Desafio_TDD_e_Testes_Unitarios\Desafio_TDD_e_Testes_Unitarios\bin\Debug\net8.0\Desafio_TDD_e_Testes_Unitarios.pdb
+C:\Users\Paulo\source\repos\Desafio_TDD_e_Testes_Unitarios\Desafio_TDD_e_Testes_Unitarios\obj\Debug\net8.0\Desafio_TDD_e_Testes_Unitarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo\source\repos\Desafio_TDD_e_Testes_Unitarios\Desafio_TDD_e_Testes_Unitarios\obj\Debug\net8.0\Desafio_TDD_e_Testes_Unitarios.AssemblyInfoInputs.cache
+C:\Users\Paulo\source\repos\Desafio_TDD_e_Testes_Unitarios\Desafio_TDD_e_Testes_Unitarios\obj\Debug\net8.0\Desafio_TDD_e_Testes_Unitarios.AssemblyInfo.cs
+C:\Users\Paulo\source\repos\Desafio_TDD_e_Testes_Unitarios\Desafio_TDD_e_Testes_Unitarios\obj\Debug\net8.0\Desafio_TDD_e_Testes_Unitarios.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\source\repos\Desafio_TDD_e_Testes_Unitarios\Desafio_TDD_e_Testes_Unitarios\obj\Debug\net8.0\Desafio_TDD_e_Testes_Unitarios.dll
+C:\Users\Paulo\source\repos\Desafio_TDD_e_Testes_Unitarios\Desafio_TDD_e_Testes_Unitarios\obj\Debug\net8.0\refint\Desafio_TDD_e_Testes_Unitarios.dll
+C:\Users\Paulo\source\repos\Desafio_TDD_e_Testes_Unitarios\Desafio_TDD_e_Testes_Unitarios\obj\Debug\net8.0\Desafio_TDD_e_Testes_Unitarios.pdb
+C:\Users\Paulo\source\repos\Desafio_TDD_e_Testes_Unitarios\Desafio_TDD_e_Testes_Unitarios\obj\Debug\net8.0\Desafio_TDD_e_Testes_Unitarios.genruntimeconfig.cache
+C:\Users\Paulo\source\repos\Desafio_TDD_e_Testes_Unitarios\Desafio_TDD_e_Testes_Unitarios\obj\Debug\net8.0\ref\Desafio_TDD_e_Testes_Unitarios.dll

@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Paulo\\source\\repos\\Desafio_TDD_e_Testes_Unitarios\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{43AD7E65-183F-4B9A-A7DE-7F9BBD4EC03A}|Test_Desafio_TDD_e_Testes_Unitarios\\Test_Desafio_TDD_e_Testes_Unitarios.csproj|c:\\users\\paulo\\source\\repos\\desafio_tdd_e_testes_unitarios\\test_desafio_tdd_e_testes_unitarios\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43AD7E65-183F-4B9A-A7DE-7F9BBD4EC03A}|Test_Desafio_TDD_e_Testes_Unitarios\\Test_Desafio_TDD_e_Testes_Unitarios.csproj|solutionrelative:test_desafio_tdd_e_testes_unitarios\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{129B4E73-1F6E-4573-B8CC-EA2303B516FE}|Desafio_TDD_e_Testes_Unitarios\\Desafio_TDD_e_Testes_Unitarios.csproj|c:\\users\\paulo\\source\\repos\\desafio_tdd_e_testes_unitarios\\desafio_tdd_e_testes_unitarios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{129B4E73-1F6E-4573-B8CC-EA2303B516FE}|Desafio_TDD_e_Testes_Unitarios\\Desafio_TDD_e_Testes_Unitarios.csproj|solutionrelative:desafio_tdd_e_testes_unitarios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{129B4E73-1F6E-4573-B8CC-EA2303B516FE}|Desafio_TDD_e_Testes_Unitarios\\Desafio_TDD_e_Testes_Unitarios.csproj|c:\\users\\paulo\\source\\repos\\desafio_tdd_e_testes_unitarios\\desafio_tdd_e_testes_unitarios\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{129B4E73-1F6E-4573-B8CC-EA2303B516FE}|Desafio_TDD_e_Testes_Unitarios\\Desafio_TDD_e_Testes_Unitarios.csproj|solutionrelative:desafio_tdd_e_testes_unitarios\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Calculadora.cs",
+              "DocumentMoniker": "C:\\Users\\Paulo\\source\\repos\\Desafio_TDD_e_Testes_Unitarios\\Desafio_TDD_e_Testes_Unitarios\\Calculadora.cs",
+              "RelativeDocumentMoniker": "Desafio_TDD_e_Testes_Unitarios\\Calculadora.cs",
+              "ToolTip": "C:\\Users\\Paulo\\source\\repos\\Desafio_TDD_e_Testes_Unitarios\\Desafio_TDD_e_Testes_Unitarios\\Calculadora.cs",
+              "RelativeToolTip": "Desafio_TDD_e_Testes_Unitarios\\Calculadora.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwCsAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T13:33:17.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Paulo\\source\\repos\\Desafio_TDD_e_Testes_Unitarios\\Test_Desafio_TDD_e_Testes_Unitarios\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "Test_Desafio_TDD_e_Testes_Unitarios\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Paulo\\source\\repos\\Desafio_TDD_e_Testes_Unitarios\\Test_Desafio_TDD_e_Testes_Unitarios\\UnitTest1.cs",
+              "RelativeToolTip": "Test_Desafio_TDD_e_Testes_Unitarios\\UnitTest1.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAwwCsAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T13:32:17.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Paulo\\source\\repos\\Desafio_TDD_e_Testes_Unitarios\\Desafio_TDD_e_Testes_Unitarios\\Program.cs",
+              "RelativeDocumentMoniker": "Desafio_TDD_e_Testes_Unitarios\\Program.cs",
+              "ToolTip": "C:\\Users\\Paulo\\source\\repos\\Desafio_TDD_e_Testes_Unitarios\\Desafio_TDD_e_Testes_Unitarios\\Program.cs",
+              "RelativeToolTip": "Desafio_TDD_e_Testes_Unitarios\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T13:28:59.851Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

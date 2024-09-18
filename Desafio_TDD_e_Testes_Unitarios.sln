@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Desafio_TDD_e_Testes_Unitarios", "Desafio_TDD_e_Testes_Unitarios\Desafio_TDD_e_Testes_Unitarios.csproj", "{129B4E73-1F6E-4573-B8CC-EA2303B516FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test_Desafio_TDD_e_Testes_Unitarios", "Test_Desafio_TDD_e_Testes_Unitarios\Test_Desafio_TDD_e_Testes_Unitarios.csproj", "{43AD7E65-183F-4B9A-A7DE-7F9BBD4EC03A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{129B4E73-1F6E-4573-B8CC-EA2303B516FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{129B4E73-1F6E-4573-B8CC-EA2303B516FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{129B4E73-1F6E-4573-B8CC-EA2303B516FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{129B4E73-1F6E-4573-B8CC-EA2303B516FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43AD7E65-183F-4B9A-A7DE-7F9BBD4EC03A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43AD7E65-183F-4B9A-A7DE-7F9BBD4EC03A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43AD7E65-183F-4B9A-A7DE-7F9BBD4EC03A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43AD7E65-183F-4B9A-A7DE-7F9BBD4EC03A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {321F60CA-B987-4C35-B8A2-93A4B6948010}
+	EndGlobalSection
+EndGlobal
